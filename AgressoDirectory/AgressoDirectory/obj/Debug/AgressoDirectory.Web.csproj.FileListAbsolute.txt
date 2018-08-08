@@ -1,0 +1,382 @@
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+C:\Users\ankit.sharma\source\repos\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.Process.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Threading.Thread.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+D:\Practice-projects\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.Process.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Threading.Thread.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\newwwww\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+D:\newwwww\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+D:\newwwww\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+D:\newwwww\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+D:\newwwww\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+D:\newwwww\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+C:\Users\ankit.sharma\Desktop\latest agresso\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.Process.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Threading.Thread.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\anju\today\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+D:\anju\today\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+D:\anju\today\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+D:\anju\today\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+D:\anju\today\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+D:\anju\today\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csprojAssemblyReference.cache
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CoreCompileInputs.cache
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll.config
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.pdb
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.exe.config
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csc.rsp
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.exe.config
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\csi.rsp
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.Managed.Core.targets
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.AppContext.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Console.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Compression.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.IO.Pipes.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.AccessControl.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Claims.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.ValueTuple.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.exe.config
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\vbc.rsp
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.BusinessLogic.pdb
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.Common.pdb
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\bin\AgressoDirectory.DataAccess.pdb
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.Web.csproj.CopyComplete
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.dll
+D:\agresso_repository\AgressoDirectory\AgressoDirectory\obj\Debug\AgressoDirectory.pdb

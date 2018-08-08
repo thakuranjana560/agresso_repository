@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AgressoEmployee.master.cs" Inherits="AgressoDirectory.AgressoEmployee" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../Content/Stylesheet/AgressoEmployeeMasterStyleSheet.css" />
+    <link href="../Content/Stylesheet/Style.css" rel="stylesheet" />
+    <title>employee</title>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+                
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+                <div class="header">
+			         <img id="imgLogo" class="logo" src="Content/Images/logo.png" alt="EVRY" runat="server"/>
+                    <div class="header-right"><asp:Label ID="lblmaster" Text="Welcome" runat="server" /><br /><a href="../Expenses/Profile.aspx"><%: Convert.ToString(Session["username"])%></a></div>
+                 
+                    <%--<form id="frm" runat="server">--%>
+                   <%-- <div class="header-right">
+                        <asp:LinkButton ID="btnMaster" Text="Logout" runat="server" />
+                    </div>--%>
+                        <%--</form>--%>
+                </div>
+    <form id="frmMasterPage" runat="server">
+            <div class="cph">
+            <asp:ContentPlaceHolder ID="cphBody" runat="server">
+            </asp:ContentPlaceHolder>
+                <asp:Button runat="server" ID="BtnLogout"  Text="Logout" OnClick="BtnLogout_Click" />
+                </div>
+        </form>
+</body>
+</html>
+

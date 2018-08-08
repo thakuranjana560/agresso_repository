@@ -1,0 +1,41 @@
+﻿.header {
+    padding-top: 10px;
+    width: 100%;
+    height: 70px;
+}
+
+.logo {
+    width: 150px;
+    height: 70px;
+    display: block;
+    margin: 0px;
+    float: left;
+}
+
+.displaytxt{
+    text-align:center;
+    margin-top:10%;
+}
+.displaybtn {
+    text-align: center;
+}
+.align {
+    display: inline-block;
+}
+.leftcol{
+  margin-left:20%;
+}
+.rightcol{
+    margin-left:40%;
+}
+
+.expenselogin {
+    border: 5px solid gray;
+    width: 30%;
+    height: 250px;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 27px;
+}

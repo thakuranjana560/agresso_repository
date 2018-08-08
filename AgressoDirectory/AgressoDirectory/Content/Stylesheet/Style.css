@@ -1,0 +1,21 @@
+﻿.expenseAdd {
+    border: 5px solid gray;
+    margin: 0 auto;
+    z-index: 1;
+    width: 50%;
+    margin-top: 10px;
+   
+}
+
+.expenselogin {
+    border: 5px solid gray;
+    width: 40%;
+    height: 250px;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 27px;
+}
+
+
